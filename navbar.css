@@ -1,0 +1,12 @@
+body{
+    background-color:aqua;
+    color: black;
+}
+
+.nav-item{
+    background-color: black;
+    color:red;
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+}
